@@ -20,6 +20,12 @@ Welcome to our solution for the InditexTech challenge at HackUPC 2024. We are th
 
 Check out the screenshots below to get a glimpse of this first feature!
 
+<p align="center">
+  <img src="images/recommend/recommend1.jpeg" alt="Feature 0 Image 1" width="30%"/>
+  <img src="images/recommend/recommend2.jpeg" alt="Feature 0 Image 2" width="30%"/>
+  <img src="images/recommend/recommend3.jpeg" alt="Feature 0 Image 3" width="30%"/>
+</p>
+
 #### Second Feature: Virtual Try-On 👗👔
 
 Finding clothes that look great is one thing, but integrating them into your style is another. That's why **TryOn!** allows users to virtually wear clothes recommended by similarity. Choose any item, and watch as it seamlessly replaces your current outfit. While it may seem like magic, the technology behind this feature is quite robust. Dive into our [`backend-tryon-inference`](https://github.com/HACKUPC-Try-on/backend-tryon-inference) repository to learn how it works.
