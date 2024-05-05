@@ -4,7 +4,7 @@
 
 # Welcome to TryOn! 🚀
 
-Welcome to our solution for the InditexTech challenge at HackUPC 2024. We are thrilled to introduce **TryOn!**, a mobile app that allows users to try on clothes similar to their chosen outfits using the provided Inditex product dataset. The main goal of the challenge was to find product similarities, and we've taken this a step further by matching user outfits with dataset products in a sleek and user-friendly app. Users can either take a photo or select one from their gallery, and TryOn! will find a set of similar items from the dataset. For more technical details, check out our [`backend-core`](https://github.com/HACKUPC-Try-on/backend) repository.
+Welcome to our solution for the InditexTech challenge at HackUPC 2024. We are thrilled to introduce **TryOn!**, a mobile app that allows users to try on clothes similar to their chosen outfits using the provided Inditex product dataset. The main goal of the challenge was to find product similarities, and we've taken this a step further by matching user outfits with dataset products in a sleek and user-friendly app. Users can either take a photo or select one from their gallery, and TryOn! will find a set of similar items from the dataset. For more technical details, check out our [`backend-core`](https://github.com/HACKUPC-Try-on/backend-core) repository.
 
 ## Table of Contents
 1. [App Features](#app-features)
